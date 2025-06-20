@@ -8,7 +8,7 @@ Password : teacher@123 / 121212
 
 ```bash
 git clone <repo-url>
-cd Live_polling\ copy
+cd Live_polling
 ```
 
 ### 2. Firebase Setup
