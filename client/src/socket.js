@@ -1,6 +1,6 @@
 import { io } from 'socket.io-client';
 
-const SOCKET_URL = 'http://localhost:5001';
+const SOCKET_URL = 'https://live-polling-application-1.onrender.com';
 
 const socket = io(SOCKET_URL, {
   autoConnect: true,
